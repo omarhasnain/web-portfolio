@@ -1,0 +1,16 @@
+body{ 
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+    font-family: 'Redressed', cursive;
+}
+.name-highlight{
+    color: goldenrod;
+}
+h3{
+    font-family: 'Poppins', sans-serif;
+}
+p{
+    width: 35%;
+}
