@@ -1,0 +1,27 @@
+body{ 
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+    font-family: 'Redressed', cursive;
+}
+.name-highlight{
+    color: goldenrod;
+}
+h3{
+    font-family: 'Poppins', sans-serif;
+}
+
+.half-width{
+    width: 40%;
+  
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+.top-banner{
+    border: 1px red;
+    background-image: url("images/top-banner.png");
+}
