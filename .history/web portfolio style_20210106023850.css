@@ -40,7 +40,7 @@ section{
     color: white;
     font-weight: 580;
 }
-.fg{
+h2{
     font-family: 'Lobster', cursive;
     font-size: 40px;
 }
@@ -55,11 +55,4 @@ section{
 .wd{
     font-family: 'Righteous', cursive;
 
-}
-#exp{
-    width: 40%;
-  
-    margin-left: 5%;
-    padding-left: 2%;
-    padding-top: 1.5%;
 }
