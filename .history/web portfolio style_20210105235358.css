@@ -45,10 +45,5 @@ h2{
     font-size: 40px;
 }
 .future-goal{
-    background-image: url("images/dream-bg.png");
-    background-repeat: no-repeat;
-    background-position: right;
-}
-#gap{
-    padding-right: 5%;
+    background-image: url("images/dream-bg.png")
 }

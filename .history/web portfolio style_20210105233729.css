@@ -44,11 +44,3 @@ h2{
     font-family: 'Lobster', cursive;
     font-size: 40px;
 }
-.future-goal{
-    background-image: url("images/dream-bg.png");
-    background-repeat: no-repeat;
-    background-position: right;
-}
-#gap{
-    padding-right: 5%;
-}
