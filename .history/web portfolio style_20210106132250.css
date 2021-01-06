@@ -67,8 +67,3 @@ section{
     box-shadow: 10px 10px 40px grey;
     border-radius: 10px;
 }
-.experience-area{
-    background-image: url("images/exp-bg.png");
-    background-repeat: no-repeat;
-    background-position: left;
-}
