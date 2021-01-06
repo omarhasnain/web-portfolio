@@ -67,7 +67,6 @@ section{
     box-shadow: 10px 10px 40px grey;
     border-radius: 10px;
     height: 60%;
-    background-color: white;
 }
 .experience-area{
     background-image: url("images/exp-bg.png");
@@ -86,11 +85,6 @@ section{
 }
 #junior-dev{
     border-left: 7px solid;
-    border-image: linear-gradient(180deg,blue,cyan);
+    border-image: linear-gradient(1800deg,);
     border-image-slice: 1; 
-
-}
-footer p{
-    text-align: center;
-    font-size: 15px;
 }
