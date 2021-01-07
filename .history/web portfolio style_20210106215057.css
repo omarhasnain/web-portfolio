@@ -94,26 +94,24 @@ footer p{
     text-align: center;
     font-size: 15px;
 }
+   
 .add{
     font-size: larger;
 }
-
-.left-space{
-    padding-left: 1%;
-}
-
-.follow{
+.fourth-part{
     width: 40%;
-  
+    float:left;
     margin-left: 5%;
     padding-left: 2%;
     padding-top: 1.5%;
 }
-.follow img{
-    width:30%;
-    display:inline-block;
+#follow{
+    width: 40%;
+    float:right;
+    margin-left: 5%;
+    padding-left: 2%;
+    padding-top: 1.5%;
 }
-
-
- 
-
+#follow img{
+    width: 10%;
+}

@@ -94,26 +94,13 @@ footer p{
     text-align: center;
     font-size: 15px;
 }
+#address{
+    
+        width: 40%;
+        margin-left: 1%;
+        padding: left;
+}    
 .add{
-    font-size: larger;
+    font-size: xx-large;
 }
-
-.left-space{
-    padding-left: 1%;
-}
-
-.follow{
-    width: 40%;
-  
-    margin-left: 5%;
-    padding-left: 2%;
-    padding-top: 1.5%;
-}
-.follow img{
-    width:30%;
-    display:inline-block;
-}
-
-
- 
 
