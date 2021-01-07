@@ -25,7 +25,7 @@ h3{
 }
 .top-banner{
    
-    background-image: url("Images/top-banner.png");
+    background-image: url("images/top-banner.png");
     background-repeat: no-repeat;
 }
 section{
@@ -45,7 +45,7 @@ section{
     font-size: 40px;
 }
 .future-goal{
-    background-image: url("Images/dream-bg.png");
+    background-image: url("images/dream-bg.png");
     background-repeat: no-repeat;
     background-position: right;
 }
